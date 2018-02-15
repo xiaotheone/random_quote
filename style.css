@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700');
+.quote-box{
+  
+  background-color: white;
+
+  width :850px;
+  margin:7% auto auto auto;
+  border-radius : 1%;
+  height : 400px;
+  padding:40px 70px;
+  width : 80%
+  
+}
+#author{
+text-align:right;
+}
+
+button{
+  padding: 10px 17px 5px 17px;
+  color:white;
+  border-radius:3px;
+  border:none;
+  height:38px;
+  float: right;
+}
+
+p{
+  font-size : 30px;
+}
+body{
+  font-family: 'Noto Serif', serif;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 40px;
+    
+    text-decoration: none;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.left{
+  text-align : left;
+}
